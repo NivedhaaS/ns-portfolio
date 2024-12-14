@@ -1,4 +1,4 @@
-import styles from './App.modules.css'
+import styles from "./App.module.css";
 
 function App() {
     return <div className={styles.App}>Hello world!</div>;
